@@ -9,7 +9,7 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 
 -After I uploaded approximately 200 pictures in each category I was tired  AND soon I realised this not gonna work so I tried searching online if there were any other sites like Kaggle where datsets can be found but failed after visiting a lot of them .
 
--Finally I came across a YouTube video about ###bing_image_downloader and my search ended here . 
+-Finally I came across a YouTube video about bing_image_downloader and my search ended here . 
 
 -On google colab , I connected google drive to it and used bing_image_downloader and uploaded more than 500 pictures in each category .
 
