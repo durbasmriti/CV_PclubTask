@@ -11,7 +11,7 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 
 -Finally I came across a YouTube video about ###bing_image_downloader and my search ended here . 
 
--On google colab , I connected google drive to it and used binge_image_downloader and uploaded more than 500 pictures in each category .
+-On google colab , I connected google drive to it and used bing_image_downloader and uploaded more than 500 pictures in each category .
 
 -And yes now my two folders in google drive wwere not empty anymore :)
 
