@@ -21,4 +21,4 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 - open the code with google colab
 - In Google colab go to "Runtime" -> "change runtime type " to GPU preferably to increase the efficiency of the code
 - Run the code with patience because it will take a lot of your time
-- 
+- If you still face issue running it like "unavailabilty of RAM" in google drive the reduce the "batch size"
