@@ -14,3 +14,11 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 -On google colab , I connected google drive to it and used binge_image_downloader and uploaded more than 500 pictures in each category .
 
 -And yes now my two folders in google drive wwere not empty anymore :)
+
+## Instructions on how to run the code 
+- download the datasets in your google drive
+- connect google with google drive(code included in the code file)
+- open the code with google colab
+- In Google colab go to "Runtime" -> "change runtime type " to GPU preferably to increase the efficiency of the code
+- Run the code with patience because it will take a lot of your time
+- 
