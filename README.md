@@ -25,3 +25,5 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 
 ![Screenshot 2024-05-21 105514](https://github.com/durbasmriti/CV_PclubTask/assets/152951506/ab80a515-5467-4ed6-8083-0cefd614f7b9)
 
+![Screenshot 2024-05-21 105723](https://github.com/durbasmriti/CV_PclubTask/assets/152951506/3f7472d8-f24b-4c90-84ec-a5ff3f2c2862)
+
