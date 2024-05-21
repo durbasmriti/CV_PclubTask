@@ -29,3 +29,5 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 
 ![Screenshot 2024-05-21 110057](https://github.com/durbasmriti/CV_PclubTask/assets/152951506/009213f6-bcd2-456b-98d5-98c37a8942ed)
 
+## HOW TO RUN THE CODE ?
+
