@@ -23,3 +23,5 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 - Run the code with patience because it will take a lot of your time
 - If you still face issue running it like "unavailabilty of RAM" in google drive the reduce the "batch size"
 
+
+![Screenshot 2024-05-21 105514](https://github.com/durbasmriti/CV_PclubTask/assets/152951506/eeeb1bef-8ce5-446b-9284-3d5cde5589e2)
