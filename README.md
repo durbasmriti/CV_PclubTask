@@ -49,4 +49,5 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 - My google colab was also crashing at times for non-availability of RAM.
 - I then tried reducing batch size to minimize the RAM usage but it compromised the accuracy .
 - later I switched my google account and got access to GPU again and took the screenshots and GPU takes really less time compared to CPU.
+- I even commented out some codes for plotting images as they were taking a lot of RAM .
 
