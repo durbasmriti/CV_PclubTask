@@ -41,3 +41,12 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 ## HOW TO RUN THE CODE ?
 ![Team brainstorm](https://github.com/durbasmriti/CV_PclubTask/assets/152951506/f90a8432-2521-44f2-b368-bc594cf88dc6)
 
+## Difficulty faced :
+- first wasted too much time searching for datasets
+- due to large datasets it was taking too much time for google colab cell to run
+- Then I switched to GPU for decreasing the time but in free Google colab , there is some limit to use GPU.
+- I forgot to take screenshots of my model working and limit for GPU has also ended so I literally had to wait for 3-4 hours for completing the runtime .
+- My google colab was also crashing at times for non-availability of RAM.
+- I then tried reducing batch size to minimize the RAM usage but it compromised the accuracy .
+- later I switched my google account and got access to GPU again and took the screenshots and GPU takes really less time compared to CPU.
+
