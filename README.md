@@ -50,4 +50,7 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 - I then tried reducing batch size to minimize the RAM usage but it compromised the accuracy .
 - later I switched my google account and got access to GPU again and took the screenshots and GPU takes really less time compared to CPU.
 - I even commented out some codes for plotting images as they were taking a lot of RAM .
+- As I am already doing the "Illusion Craft " project so this task encouraged mereading abou CNN in deep
+- Overall had a great experience reading articles , watching you tube video tutorial etc.
+- I learned a lot .
 
