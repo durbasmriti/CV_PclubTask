@@ -17,9 +17,9 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 
 ## Instructions to get your own datasets:
 - make two folder one named "female_wearing_mask" and other "Male_wearing_mask"
-- 
+  
 - Copy the code of bing-image-downloader.py in your colab
-- 
+ 
 - change your query and directory as per your need
 
 ## Instructions on how to run the code 
