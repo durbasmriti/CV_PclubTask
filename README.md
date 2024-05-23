@@ -13,7 +13,14 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
 
 -On google colab , I connected google drive to it and used bing_image_downloader and uploaded more than 500 pictures in each category .
 
--And yes now my two folders in google drive wwere not empty anymore :)
+-And yes now my two folders in google drive were not empty anymore :)
+
+## Instructions to get your own datasets:
+- make two folder one named "female_wearing_mask" and other "Male_wearing_mask"
+- 
+- Copy the code of bing-image-downloader.py in your colab
+- 
+- change your query and directory as per your need
 
 ## Instructions on how to run the code 
 - download the datasets in your google drive
