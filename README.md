@@ -22,7 +22,7 @@ Male_wearing_mask : https://drive.google.com/drive/folders/1pE62nFCIBQGYUUwLXj2l
  
 - change your query and directory as per your need
 - Run the code
-- there you go you created your own datasets
+- There you go , you created your own datasets
 - you can bring diversity in you datasets but changing the query bit like "little boy wearing mask " etc
 
 ## Instructions on how to run the code 
